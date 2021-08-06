@@ -1,0 +1,1 @@
+rofi -show drun  -theme-str 'element-icon { size: 2.0ch;}' -width 30 -lines 7 -columns 2 -font "Inter 13" -dpi 120 -padding 5 -show-icons true -icon.theme Dracula
