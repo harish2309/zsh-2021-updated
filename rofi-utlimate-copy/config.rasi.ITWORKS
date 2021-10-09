@@ -1,3 +1,9 @@
+
+Keyboard:- 
+rofi -show drun -theme-str 'element-icon { size: 2.0ch;}'
+
+
+Rofi Config File:-
 configuration {
     modi: "drun,calc:qalc,ssh";
     separator-style: "dash";
